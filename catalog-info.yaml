@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: rosmarcin/js_api_rest_calls_test1
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: development
   owner: mr-group
