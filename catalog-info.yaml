@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: js_api_rest_calls_test1
+  annotations:
+    github.com/project-slug: rosmarcin/js_api_rest_calls_test1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: mr-group
